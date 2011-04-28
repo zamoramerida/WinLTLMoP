@@ -1,0 +1,40 @@
+Software requirements LTLMoP on Windows.
+
+- python-2.6.6
+
+http://www.python.org/ftp/python/2.6.6/python-2.6.6.msi
+
+- scipy-0.9.0-win32-superpack-python2.6
+
+http://sourceforge.net/projects/scipy/files/scipy/0.9.0/scipy-0.9.0-win32-superpack-python2.6.exe/download
+
+- wxPython2.8-win32-unicode-2.8.11.0-py26
+
+http://en.sourceforge.jp/projects/sfnet_wxpython/downloads/wxPython/2.8.11.0/wxPython2.8-win32-unicode-2.8.11.0-py26.exe
+
+- numpy-1.6.0b2-win32-superpack-python2.6
+
+http://sourceforge.net/projects/numpy/files/NumPy/1.6.0b2/numpy-1.6.0b2-win32-superpack-python2.6.exe/download
+
+- Polygon-2.0.3.win32-py2.6-withNumPy
+
+http://download.origo.ethz.ch/polygon/2101/Polygon-2.0.3.win32-py2.6-withNumPy.exe
+
+#############################
+#ODE SIMULATION DEPENDENCIES#
+#############################
+
+- pygame-1.9.1.win32-py2.6.
+
+http://pygame.org/ftp/pygame-1.9.1.win32-py2.6.msi
+
+- PyOpenGL-3.0.1.win32
+
+http://pypi.python.org/packages/any/P/PyOpenGL/PyOpenGL-3.0.1.win32.exe
+
+- PyODE-snapshot-2010-03-22.win32-py2.6
+
+http://en.sourceforge.jp/projects/sfnet_pyode/downloads/pyode/snapshot-2010-03-22/PyODE-snapshot-2010-03-22.win32-py2.6.exe
+
+Note: LTLMoP and Python ODE Simulation has been tested on Windows only using the software listed before. 
+
